@@ -7,10 +7,10 @@
         using System;
 
 
-        namespace EntityGeneratorForm <br />
-        {<br />
-                public class Student<br />
-                    {<br />
+        namespace EntityGeneratorForm_
+        {_
+                public class Student_
+                {_
 
                         public DateTime? DOB { get; set; }
 
