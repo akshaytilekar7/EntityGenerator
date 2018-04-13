@@ -9,8 +9,8 @@
 
         namespace EntityGeneratorForm
         {
-                public class Student_
-                {_
+                public class Student
+                {
 
                         public DateTime? DOB { get; set; }
 
