@@ -7,8 +7,8 @@
         using System;
 
 
-        namespace EntityGeneratorForm_
-        {_
+        namespace EntityGeneratorForm
+        {
                 public class Student_
                 {_
 
