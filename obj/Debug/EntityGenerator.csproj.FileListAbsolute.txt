@@ -1,0 +1,13 @@
+D:\Study\Practise\EntityGenerator\EntityGenerator\bin\Debug\EntityGenerator.exe.config
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.Form1.resources
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.Properties.Resources.resources
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.csproj.GenerateResource.Cache
+D:\Study\Practise\EntityGenerator\EntityGenerator\bin\Debug\EntityGenerator.exe
+D:\Study\Practise\EntityGenerator\EntityGenerator\bin\Debug\EntityGenerator.pdb
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.exe
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.pdb
+D:\Study\Practise\EntityGenerator\EntityGenerator\bin\Debug\EntityGenerator.exe.manifest
+D:\Study\Practise\EntityGenerator\EntityGenerator\bin\Debug\EntityGenerator.application
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.csprojResolveAssemblyReference.cache
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.exe.manifest
+D:\Study\Practise\EntityGenerator\EntityGenerator\obj\Debug\EntityGenerator.application
